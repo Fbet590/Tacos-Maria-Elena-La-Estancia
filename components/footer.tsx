@@ -57,9 +57,9 @@ export function Footer() {
               {/* Hours */}
               <div>
                 <h3 className="font-serif text-2xl mb-6">HORARIO</h3>
-                <p className="mb-2">Lunes - Sabado: 9AM - 3PM</p>
+                <p className="mb-2">Lunes - Sabado: 8AM - 3:30PM</p>
                 <p className="mb-6">Domingo: CERRADO</p>
-                <p className="text-primary font-bold text-lg">LLAMANOS HOY: (33) 3324-3444</p>
+                <p className="text-primary font-bold text-lg">LLAMANOS HOY: (33) 3673-2438</p>
                 <p className="text-sm text-secondary-foreground/80 mt-4 max-w-sm">
                   En Maria Elena, nos dedicamos a servir a nuestros clientes con el mas autentico sabor mexicano. 
                   Nos esforzamos por crear relaciones duraderas con las familias que nos visitan.
@@ -85,7 +85,7 @@ export function Footer() {
                 <h3 className="font-serif text-2xl mb-6">CONECTATE</h3>
                 <div className="flex gap-4 mb-8">
                   <Link 
-                    href="https://www.facebook.com/tacosmariaelenacentro" 
+                    href="https://www.facebook.com/tacos.mariaelena.laestancia" 
                     target="_blank"
                     className="p-3 bg-secondary-foreground/10 rounded-full hover:bg-primary hover:text-primary-foreground transition-colors"
                     aria-label="Facebook"
@@ -93,7 +93,7 @@ export function Footer() {
                     <Facebook className="w-5 h-5" />
                   </Link>
                   <Link 
-                    href="https://www.instagram.com/tacosmariaelenacentro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
+                    href="https://www.instagram.com/tacos.mariaelena.laestancia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
                     target="_blank"
                     className="p-3 bg-secondary-foreground/10 rounded-full hover:bg-primary hover:text-primary-foreground transition-colors"
                     aria-label="Instagram"

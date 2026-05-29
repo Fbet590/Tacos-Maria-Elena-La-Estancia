@@ -41,7 +41,7 @@ export function Header() {
           <div className="flex items-center gap-4">
             <div className="flex items-center gap-3">
               <Link 
-                href="https://www.facebook.com/tacosmariaelenacentro" 
+                href="https://www.facebook.com/tacos.mariaelena.laestancia" 
                 target="_blank"
                 className="text-muted-foreground hover:text-foreground transition-colors"
                 aria-label="Facebook"
@@ -49,7 +49,7 @@ export function Header() {
                 <Facebook className="w-5 h-5" />
               </Link>
               <Link 
-                href="https://www.instagram.com/tacosmariaelenacentro?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
+                href="https://www.instagram.com/tacos.mariaelena.laestancia?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
                 target="_blank"
                 className="text-muted-foreground hover:text-foreground transition-colors"
                 aria-label="Instagram"
